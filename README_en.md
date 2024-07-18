@@ -37,13 +37,13 @@ To view the project in your browser, follow the steps below:
 1.Clone the repository:
 
 ```bash
-git clone <https://github.com/patyfreitasbr/googlesearchpageclone.git>
+git clone <https://github.com/patyfreitasbr/Google-Search-Page-Clone.git>
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd google-search-page-clone
+cd Google-Search-Page-Clone
 ```
 
 3.Open the index.html file in your browser:
