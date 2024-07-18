@@ -58,4 +58,4 @@ Patrícia Freitas
 
 www.linkedin.com/in/patyfreitasbr
 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/devsuperior/sds1-wmazoni/blob/master/LICENSE)
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/patyfreitasbr/Google-Search-Page-Clone/blob/main/LICENSE)
