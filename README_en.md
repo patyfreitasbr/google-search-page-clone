@@ -34,7 +34,7 @@ This is a project to recreate the Google search page. The goal of this project i
 
 To view the project in your browser, follow the steps below:
 
-1.Clone the repository:
+1. Clone the repository:
 
 ```bash
 git clone <https://github.com/patyfreitasbr/Google-Search-Page-Clone.git>
@@ -46,7 +46,7 @@ git clone <https://github.com/patyfreitasbr/Google-Search-Page-Clone.git>
 cd Google-Search-Page-Clone
 ```
 
-3.Open the index.html file in your browser:
+3. Open the index.html file in your browser:
 
 - On Windows: Double-click the index.html file.
 - On MacOS: Right-click the index.html file and select "Open with" > "Chrome" (or another browser of your choice).
