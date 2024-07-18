@@ -6,8 +6,8 @@
 - [Demonstration](#demonstration)
 - [Tecnologies Used](#tecnologies-used)
 - [Features](#features)
-- [How to Run the Project](#how-to-run-the-project)
-- [Autor](#autor)
+- [How to view the project](#how-to-view-the-project)
+
 
 # Description
 
@@ -30,32 +30,14 @@ This is a project to recreate the Google search page. The goal of this project i
 - **Action Buttons**: "Google Search" and "I'm Feeling Lucky" buttons.
 - **Footer**: Informative and navigational links.
 
-## How to Run the Project
+## How to view the project
 
 To view the project in your browser, follow the steps below:
 
-1. Clone the repository:
+- Download the project to your computer.
+- Unzip the folder.
+- Click on the "index.html" file.
 
-```bash
-git clone <https://github.com/patyfreitasbr/Google-Search-Page-Clone.git>
-```
 
-2. Navigate to the project directory:
-
-```bash
-cd Google-Search-Page-Clone
-```
-
-3. Open the index.html file in your browser:
-
-- On Windows: Double-click the index.html file.
-- On MacOS: Right-click the index.html file and select "Open with" > "Chrome" (or another browser of your choice).
-- On Linux: Open the terminal and run xdg-open index.html.
-
-# Autor
-
-Patrícia Freitas
-
-www.linkedin.com/in/patyfreitasbr
 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/patyfreitasbr/Google-Search-Page-Clone/blob/main/LICENSE)
