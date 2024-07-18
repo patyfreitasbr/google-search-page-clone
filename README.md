@@ -36,11 +36,7 @@ Este é um projeto de recriação da página de pesquisa do Google. O objetivo d
 
 Para visualizar o projeto em seu navegador, siga os passos abaixo:
 
-- Baixe o projeto em seu computador.
-
-![Como Baixar](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdisgHK58i-uj_3Qxq75VrKav8jPEwEb-FP6vEy80wqhWcaZYwO4cVhiF1723j4Jc4ESWnLUpTlwxT6fH9OQnV1sRT53EK7AhZS-3L2zW5K0DkATzxWA1b5sYt72NFu2Zcjr1LiwfRwL8wCqcijlckIg1TndAN6KyT4JRLnc4Q7w2M3gXza4hOeGG4KE08/s1600/baixar-projetos.gif)
-
-
+- Baixe o projeto em seu computador (clique no botão verde no alto na página "code" e clique em "Download ZIP".
 - Descompacte a pasta (use o software de sua preferência 7zip, winrar...).
 - Clique no arquivo "index.html" e abrirá no seu navegador padrão.
   <br>
