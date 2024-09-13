@@ -2,14 +2,7 @@
 
 🔗 For the English version, click [HERE](https://github.com/patyfreitasbr/Google-Search-Page-Clone/blob/main/README_en.md "readme english")
 
-
-## Índice
-
-- [Descrição](#descrição)
-- [Demonstração](#demonstração)
-- [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Funcionalidades](#funcionalidades)
-- [Como visualizar o projeto](#como-visualizar-o-projeto)
+• [Descrição](#descrição) • [Demonstração](#demonstração) • [Tecnologias Utilizadas](#tecnologias-utilizadas) • [Funcionalidades](#funcionalidades) • [Como visualizar o projeto](#como-visualizar-o-projeto)
 
 # Descrição
 
